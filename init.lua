@@ -92,6 +92,17 @@ do
   -- Enable faster startup by caching compiled Lua modules
   vim.loader.enable()
 
+  --  NOTE: Para hacer que la identacion auto sea dos espacios
+  --  y reemplazar tabs por dos espacios, robado de este post
+  --  de Reddit
+  vim.opt.tabstop = 2
+  vim.opt.softtabstop = 2
+  vim.opt.shiftwidth = 2
+  vim.opt.expandtab = true
+  vim.opt.autoindent = true
+  vim.opt.smartindent = true
+
+
   -- Set <space> as the leader key
   -- See `:help mapleader`
   --  NOTE: Must happen before plugins are loaded (otherwise wrong leader will be used)
