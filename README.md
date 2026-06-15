@@ -1,4 +1,13 @@
-# kickstart.nvim
+# lambda.nvim
+
+## PORFAVOR VÉANSE ['ESTO'](https://youtu.be/m8C0Cq9Uv9o?si=03CiSjJsVlzEwyHA)
+
+
+## Keybinds
+
+
+## Links Sabrosones
+
 
 ## Introduction
 
