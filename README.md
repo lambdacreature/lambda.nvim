@@ -7,6 +7,7 @@
 
 
 ## Links Sabrosones
+['Arch Wiki: Language Server Protocol'](https://wiki.archlinux.org/title/Language_Server_Protocol)
 
 
 ## Introduction
